@@ -1,7 +1,7 @@
 # Analista de Dados
 
 ### Formação
-Engenheiro de Auotmação, Pós em Ciência de Dados
+Engenheiro de Automação, Pós em Ciência de Dados
 
 ### Experiência de Trabalho
 Analista de Dados @ CNPEM
