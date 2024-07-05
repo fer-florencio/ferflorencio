@@ -11,6 +11,7 @@ Experiência avançada em linguagens e ferramentas, tais quais:
   - Power BI
   - Excel
   - RPA (Robotic Process Automation)
+
 Experiência em projetos de:
   - People Analytics (HR)
   - Supply chain
